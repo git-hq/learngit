@@ -1,4 +1,2 @@
 <?php
-echo'github\n';
-phpinfo();
-
+echo phpinfo();
